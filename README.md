@@ -2,7 +2,7 @@
 
 ## Video Output:
 
-https://github.com/x
+https://github.com/user-attachments/assets/6a06d440-0956-4d34-9fc6-dab80ce947e7
 
 ## What is Automation?
 
@@ -59,5 +59,4 @@ Playwright is an excellent choice for web automation due to its cross-browser ca
 
 ## Playwright Report Screenshot:
 
-![image](https://github.com/x)
-![image](https://github.com/x)
+![image](https://github.com/user-attachments/assets/deb145a3-4177-46f4-a514-aec01d4ce27a)
